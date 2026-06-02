@@ -3,6 +3,8 @@
 <img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=00a19a&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
 <br />
   <br />
+<img src="https://github.com/NICOROSBERGG/NICOROSBERGG/blob/main/uploads_image_whOjy0SEvMkQlF9d7DPHpeXLGbg4iI_1000250236.gif">
+  <br />
 wip wip wip :p
 <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
