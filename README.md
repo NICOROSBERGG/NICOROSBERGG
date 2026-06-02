@@ -3,7 +3,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=00a19a&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
 <br />
   <br />
-<img src="https://github.com/NICOROSBERGG/NICOROSBERGG/blob/main/uploads_image_whOjy0SEvMkQlF9d7DPHpeXLGbg4iI_1000250236.gif">
+<img src="https://github.com/NICOROSBERGG/NICOROSBERGG/blob/main/ezgif.com-animated-gif-maker.gif">
   <br />
 wip wip wip :p
 <br />
