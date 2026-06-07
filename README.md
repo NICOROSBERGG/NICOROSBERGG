@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=66AFAC&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
   <br />
-  <p align="center">$\color{#66AFAC}{\textsf{'' give me your eyes, i need sunshine. ,,}}$
+  <p align="center">$\color{#66AFAC}{\textsf{'' so give me your eyes, i need sunshine. ,,}}$
 <br />
     <br />
 <img src="https://github.com/NICOROSBERGG/NICOROSBERGG/blob/main/ezgif.com-animated-gif-maker.gif">
