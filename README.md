@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=00a19a&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=66AFAC&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
   <br />
   <p align="center">$\color{#66AFAC}{\textsf{'' give me your eyes, i need sunshine. ,,}}$
 <br />
