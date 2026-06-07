@@ -10,7 +10,7 @@
   <p align="center">
 </p>
   
-  [rentry](https://rentry.co/nicorosbergg/) made by raf <33
+  [rentry](https://rentry.co/nicorosbergg/) $\color{#66AFAC}{\textsf{made by raf <33}}$
 <br />
 <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
