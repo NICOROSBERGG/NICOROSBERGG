@@ -1,11 +1,10 @@
 <br />
 <div align="center">
-  <img width="1280" height="200" alt="image" src="https://github.com/user-attachments/assets/75df73f5-4e8b-4194-a0a6-e5bbe48f3be3" />
-<br />
-  <br />
 <img src="https://views-counter.vercel.app/badge?pageId=NICOROSBERGG%2FNICOROSBERGG&leftColor=00a19a&rightColor=ecf6f9&type=total&label=nr6&style=none" alt="Views Counter">
-<br />
   <br />
+  <p align="center">$\color{#66AFAC}{\textsf{'' give me your eyes, i need sunshine. ,,}}$
+<br />
+    <br />
 <img src="https://github.com/NICOROSBERGG/NICOROSBERGG/blob/main/ezgif.com-animated-gif-maker.gif">
   <br />
   <p align="center">
