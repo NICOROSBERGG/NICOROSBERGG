@@ -10,7 +10,7 @@
   <p align="center">
 </p>
   
-  $\color{#66AFAC}{\textsf{ᯓ}}$ [𝐠𝐮𝐧𝐬.𝐥𝐨𝐥](https://guns.lol/nicorosberg) $\color{#66AFAC}{\textsf{⋆˙⟡}}$ [𝐫𝐞𝐧𝐭𝐫𝐲](https://rentry.co/nicorosbergg/) $\color{#66AFAC}{\textsf{made by raf ‹𝟹}}$
+  $\color{#66AFAC}{\textsf{ᯓ}}$ [𝐠𝐮𝐧𝐬.𝐥𝐨𝐥](https://guns.lol/nicorosberg) $\color{#66AFAC}{\textsf{(wip) ⋆˙⟡}}$ [𝐫𝐞𝐧𝐭𝐫𝐲](https://rentry.co/nicorosbergg/) $\color{#66AFAC}{\textsf{made by raf ‹𝟹}}$
 <br />
 <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
